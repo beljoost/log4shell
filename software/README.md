@@ -521,6 +521,7 @@ NCSC-NL will use the following status:
 | GoAnywhere| Agents| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | Graylog | Graylog | < 3.3.15,<4.0.14,<4.1.9,<4.2.3 | Fix | | [source](https://www.graylog.org/post/graylog-update-for-log4j)|
 | GuardedBox | GuardedBox | <3.1.2 | Fix | | [source](https://twitter.com/GuardedBox/status/1469739834117799939) |
+| GX Software | XperienCentral | | Not Vuln | | [source](https://service.gxsoftware.com/hc/nl/articles/4413593448849-Kwetsbaarheid-in-Log4j-Log4Shell- "retrieved 20211213-1824CET") |
 
 ### H
 
